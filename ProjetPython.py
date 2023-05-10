@@ -16,16 +16,6 @@ import re
 ################################################
 #Code Lea                    
 ################################################
-from enum import IntEnum
-import stanza
-from stanza import Document
-from stanza.utils.conll import CoNLL
-import spacy
-from enum import IntEnum
-from spacy.tokens import Doc
-from typing import Callable
-from lxml import etree
-import re
 
 class Conllu:
     
